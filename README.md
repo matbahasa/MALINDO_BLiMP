@@ -3,7 +3,7 @@
 ## Introduction
 MALINDO BLiMP is a dataset for targeted syntactic evaluations of language models in Malay (zsm) and Indonesian (ind).  In building MALINDO BLiMP, we closely followed the procedure adopted by the developers of [JBLiMP (Japanese Benchmark of Linguistic Minimal Pairs)](https://github.com/osekilab/JBLiMP).  We collected our data from linguistics journals and books and created minimal pairs.  These minimal pairs are classified into 12 phenomena consisting of 45 paradigms.
 
-MALINDO BLIMP is still under construction, so we are releasing a small part of it first before releasing the full version.
+MALINDO BLiMP is still under construction, so we are releasing a small part of it first before releasing the full version.
 
 MALINDO BLiMP is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).
 
@@ -24,7 +24,7 @@ Nomoto, Hiroki, Sri Budi Lestari, David Moeljadi, Farhan Athirah binti Abdul Raz
 ## Contents
 - `core/raw/`: Minimal pairs used for human validation (300 pairs for both Malay and Indonesian)
 - `core/validated/`: Minimal pairs after human validation (174 pairs for Malay and 189 pairs for Indonesian)
-- `core/validation/`: Results of human validation
+- `core/validation/`: Results of human validation (acceptability judgement experiment)
 
 ## Data Format
 |Name|Description|
