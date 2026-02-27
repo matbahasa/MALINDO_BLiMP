@@ -1,4 +1,4 @@
-# MALINDO_BLiMP (Malay/Indonesian Benchmark of Linguistic Minimal Pairs)
+# MALINDO BLiMP (Malay/Indonesian Benchmark of Linguistic Minimal Pairs)
 
 ## Introduction
 MALINDO BLiMP is a dataset for targeted syntactic evaluations of language models in Malay (zsm) and Indonesian (ind).  In building MALINDO BLiMP, we closely followed the procedure adopted by the developers of [JBLiMP (Japanese Benchmark of Linguistic Minimal Pairs)](https://github.com/osekilab/JBLiMP).  We collected our data from linguistics journals and books and created minimal pairs.  These minimal pairs are classified into 12 phenomena consisting of 45 paradigms.
