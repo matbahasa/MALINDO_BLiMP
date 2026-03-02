@@ -8,7 +8,7 @@ MALINDO BLiMP is still under construction, so we are releasing a small part of i
 MALINDO BLiMP is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).
 
 ## How to Cite
-Nomoto, Hiroki, Sri Budi Lestari, David Moeljadi, Farhan Athirah binti Abdul Razak, Kazuya Inagaki and Masashi Furihata. 2026. [Challenges in building a benchmark of linguistic minimal pairs for low resource languages: The case of Malay and Indonesian](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q1-6.pdf). <i>Proceedings of the Thirty-Second Annual Meeting of the Association for Natural Language Processing</i>, ###-###.
+Nomoto, Hiroki, Sri Budi Lestari, David Moeljadi, Farhan Athirah binti Abdul Razak, Kazuya Inagaki and Masashi Furihata. 2026. [Challenges in building a benchmark of linguistic minimal pairs for low resource languages: The case of Malay and Indonesian](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q1-6.pdf). <i>Proceedings of the Thirty-Second Annual Meeting of the Association for Natural Language Processing</i>, 381-386.
 
 ```bib
 @InProceedings{NomotoEtAl26,
