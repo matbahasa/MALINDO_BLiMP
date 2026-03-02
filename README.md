@@ -16,7 +16,7 @@ Nomoto, Hiroki, Sri Budi Lestari, David Moeljadi, Farhan Athirah binti Abdul Raz
     year = {2026},
     title = {Challenges in building a benchmark of linguistic minimal pairs for low resource languages: The case of Malay and Indonesian},
     booktitle = {Proceedings of the Thirty-Second Annual Meeting of the {A}ssociation for {N}atural {L}anguage {P}rocessing},
-    pages = {###-###},
+    pages = {381-386},
     url = {https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q1-6.pdf}
 }
 ```
