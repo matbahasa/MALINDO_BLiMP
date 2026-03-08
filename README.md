@@ -25,6 +25,7 @@ Nomoto, Hiroki, Sri Budi Lestari, David Moeljadi, Farhan Athirah binti Abdul Raz
 - `core/raw/`: Minimal pairs used for human validation (300 pairs for both Malay and Indonesian)
 - `core/validated/`: Minimal pairs after human validation (174 pairs for Malay and 189 pairs for Indonesian)
 - `core/validation/`: Results of human validation (acceptability judgement experiment)
+- `sources.bib`: List of data sources
 
 ## Data Format
 |Name|Description|
